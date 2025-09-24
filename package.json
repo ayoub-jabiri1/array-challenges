@@ -1,0 +1,22 @@
+{
+  "name": "array-challenges",
+  "version": "1.0.0",
+  "description": "Challenges JavaScript : Tableaux",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoub-jabiri1/array-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoub-jabiri1/array-challenges/issues"
+  },
+  "homepage": "https://github.com/ayoub-jabiri1/array-challenges#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
