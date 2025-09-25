@@ -81,7 +81,7 @@ for (let val of carrArray) {
   console.log(`${val}^2 = ${Math.pow(val, 2)}`);
 }
 
-// Challenge 8
+// Challenge 7
 
 let array = prompt("Entrer une chaîne: ").toLocaleLowerCase();
 let voyelles = ["a", "e", "i", "o", "u", "y"];
